@@ -102,26 +102,26 @@ export class Feedback {
       buttonDefault: '',
     },
     texts: {
-      describe: 'Describe your issue or share your ideas.',
-      title: 'Send feedback',
-      screenshot: 'Include screenshot',
-      cancel: 'cancel',
-      send: 'send',
-      sending: 'sending...',
-      sent: 'sent...',
-      error: 'error...',
-      back: 'back',
-      close: 'close',
-      ok: 'ok',
-      dragger: 'dragger',
-      highlight: 'highlight',
-      blackout: 'blackout',
-      done: 'done',
-      remove: 'remove',
-      footnote:
-      `Go to the Legal Help page to request content changes for legal reasons. `
-      + `Your feedback, additional info, and email will be sent to Feedback. `
-      + `See Privacy Policy and Terms of Service.`,
+        describe: 'Mô tả vấn đề hoặc chia sẻ ý tưởng của quý khách',
+        title: 'Gửi phản hồi',
+        screenshot: 'Bao gồm ảnh chụp màn hình',
+        cancel: 'hủy',
+        send: 'gửi',
+        sending: 'đang gửi...',
+        sent: 'sent...',
+        error: 'đã xảy ra lỗi...',
+        back: 'quay lại',
+        close: 'đóng',
+        ok: 'ok',
+        dragger: 'ẩn',
+        highlight: 'nổi bật',
+        blackout: 'blackout',
+        done: 'xong',
+        remove: 'remove',
+        footnote:
+            `Test chỉnh sửa. `
+            + `Thông tin của và email của quý khách sẽ được gửi tới chúng tôi. `
+            + `Xem chính sách bảo mật và điều khoản dịch vụ.`,
     }
   };
 
