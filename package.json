@@ -1,6 +1,6 @@
 {
-  "name": "feedback",
-  "version": "1.0.0",
+  "name": "feedback-hchc",
+  "version": "1.0.1",
   "description": "feedback-biz",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/hoangchieu3008/feedback#readme",
   "dependencies": {
-    "@ivoviz/feedback.js": "github:hoangchieu3008/feedback#dev",
+    "@hoangchieu/feedback.js": "github:hoangchieu3008/feedback#dev",
     "html2canvas": "1.0.0-alpha.9"
   },
   "devDependencies": {
