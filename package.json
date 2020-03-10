@@ -1,26 +1,27 @@
 {
-  "name": "@ivoviz/feedback.js",
-  "version": "1.0.0-alpha.1",
-  "description": "Feedback tool similar to Google's.",
+  "name": "feedback",
+  "version": "1.0.0",
+  "description": "feedback-biz",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivoviz/feedback.git"
+    "url": "git+https://github.com/hoangchieu3008/feedback.git"
   },
-  "keywords": [
-    "feedback"
-  ],
-  "author": "ivoviz",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ivoviz/feedback/issues"
+    "url": "https://github.com/hoangchieu3008/feedback/issues"
   },
-  "homepage": "https://github.com/ivoviz/feedback#readme",
+  "homepage": "https://github.com/hoangchieu3008/feedback#readme",
   "dependencies": {
+    "@ivoviz/feedback.js": "github:hoangchieu3008/feedback#dev",
     "html2canvas": "1.0.0-alpha.9"
   },
   "devDependencies": {
