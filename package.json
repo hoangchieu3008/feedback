@@ -1,6 +1,6 @@
 {
   "name": "feedback-hchc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "feedback-biz",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
