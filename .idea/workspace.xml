@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3670f986-90da-49cf-9e92-c4796aa1a637" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/dist/lib/feedback.js" afterPath="$PROJECT_DIR$/dist/lib/feedback.js" />
+      <change beforePath="$PROJECT_DIR$/dist/lib/feedback.js.map" afterPath="$PROJECT_DIR$/dist/lib/feedback.js.map" />
       <change beforePath="$PROJECT_DIR$/lib/feedback.ts" afterPath="$PROJECT_DIR$/lib/feedback.ts" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -46,8 +49,8 @@
       <file leaf-file-name="feedback.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/feedback.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="101" column="19" lean-forward="false" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="19" />
+            <state relative-caret-position="816">
+              <caret line="542" column="56" lean-forward="true" selection-start-line="542" selection-start-column="56" selection-end-line="542" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -94,7 +97,7 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1583818189447" expanded="true" signature="51869:51877" ph="{...}" />
+                <marker date="1583832274495" expanded="true" signature="51869:51877" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -115,13 +118,16 @@
       <find>this._root.appendChild(this._createDrawOptions());</find>
       <find>DOMTokenList</find>
       <find>_root</find>
-      <find>classList</find>
       <find>_createDrawOptions</find>
       <find>_options.classes.button</find>
       <find>classes.button</find>
       <find>_options</find>
       <find>_createDrawOptions</find>
+      <find>highlightButton.classList.add(this._options.classes.buttonDefault)</find>
+      <find>this._options.classes.buttonDefault</find>
+      <find>addList</find>
       <find>buttonDefault</find>
+      <find>classList</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -227,16 +233,15 @@
       <updated>1583737443947</updated>
       <workItem from="1583737445290" duration="27000" />
       <workItem from="1583807059552" duration="1113000" />
-      <workItem from="1583824313368" duration="4231000" />
+      <workItem from="1583824313368" duration="5826000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7663000" />
+    <option name="totallyTimeSpent" value="9258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -247,7 +252,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -312,7 +317,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1583818189447" expanded="true" signature="51869:51877" ph="{...}" />
+            <marker date="1583832274495" expanded="true" signature="51869:51877" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -354,7 +359,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1583818189447" expanded="true" signature="51869:51877" ph="{...}" />
+            <marker date="1583832274495" expanded="true" signature="51869:51877" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -398,8 +403,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/feedback.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="101" column="19" lean-forward="false" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="19" />
+        <state relative-caret-position="816">
+          <caret line="542" column="56" lean-forward="true" selection-start-line="542" selection-start-column="56" selection-end-line="542" selection-end-column="56" />
           <folding />
         </state>
       </provider>

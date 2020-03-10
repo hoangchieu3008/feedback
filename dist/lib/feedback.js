@@ -511,7 +511,7 @@ class Feedback {
         highlightButton.innerText = this._options.texts.highlight;
         highlightButton.type = 'button';
         highlightButton.classList.add(this._options.classes.button);
-        highlightButton.classList.add(this._options.classes.buttonDefault);
+        // highlightButton.classList.add(this._options.classes.button)
         highlightButton.addEventListener('click', () => this._state.highlight = true);
         highlightButtonContainer.appendChild(highlightButton);
         drawOptions.appendChild(highlightButtonContainer);
@@ -520,7 +520,7 @@ class Feedback {
         blackoutButton.innerText = this._options.texts.blackout;
         blackoutButton.type = 'button';
         blackoutButton.classList.add(this._options.classes.button);
-        blackoutButton.classList.add(this._options.classes.buttonDefault);
+        // blackoutButton.classList.add(this._options.classes.button)
         blackoutButton.addEventListener('click', () => this._state.highlight = false);
         blackoutButtonContainer.appendChild(blackoutButton);
         drawOptions.appendChild(blackoutButtonContainer);
@@ -529,7 +529,7 @@ class Feedback {
         doneButton.innerText = this._options.texts.done;
         doneButton.type = 'button';
         doneButton.classList.add(this._options.classes.button);
-        doneButton.classList.add(this._options.classes.buttonDefault);
+        // doneButton.classList.add(this._options.classes.button)
         doneButton.addEventListener('click', this._closeDrawer);
         doneButtonContainer.appendChild(doneButton);
         drawOptions.appendChild(doneButtonContainer);
